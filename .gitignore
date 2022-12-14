@@ -1,4 +1,5 @@
 *
+!*/*.cpp
 !*.cpp
 !README.md
 temp.cpp
