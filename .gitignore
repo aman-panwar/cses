@@ -1,3 +1,5 @@
 *
 !*.cpp
 !README.md
+temp.cpp
+bin/
